@@ -250,12 +250,12 @@ input {
 
 .portfolio {
 	padding:0 !important;
-	margin: 0 12% !important;
+	margin: 0 5% !important;
 	display:block;
 }
 
 .portfolio-item {
-	margin: 48px !important;
+	margin: 5% !important;
 }
 
 .portfolio-item .title:before {border-radius:0; display:none}
