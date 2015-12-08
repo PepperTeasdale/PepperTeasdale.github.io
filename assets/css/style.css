@@ -309,6 +309,7 @@ input {
 #sep {
 	background: url(../img/brooklyn-sunset.jpg) no-repeat center top;
 	padding-top: 100px;
+	margin-top: 50px;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 450px;
@@ -330,6 +331,10 @@ input {
 #sep h3 {
 	font-weight: 300;
 	letter-spacing: 2px;
+}
+
+.btn-white {
+	background: whitesmoke;
 }
 
 /* FOOTER */
