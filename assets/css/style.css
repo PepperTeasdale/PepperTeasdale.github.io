@@ -255,7 +255,7 @@ input {
 }
 
 .portfolio-item {
-	margin: 5% !important;
+	margin: 20px !important;
 }
 
 .portfolio-item .title:before {border-radius:0; display:none}
@@ -274,7 +274,7 @@ input {
 .tpl6 .dmbutton
 {
 	display:inline-block;
-	margin:30px 5px 20px 5px;
+	margin:40px 5px 20px 5px;
 	font-size:13px;
 }
 
