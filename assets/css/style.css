@@ -201,8 +201,8 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/partyjustin.png) no-repeat center top;
-	padding-top: 5px;
+	background: url(../img/headshot.png) no-repeat center top;
+	padding-top: 0;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 700px;
@@ -222,9 +222,13 @@ input {
 }
 
 #h .logo {
-	margin-top: 100px;
+	margin-top: 0px;
 	margin-left: 40px;
 	padding-bottom: 150px;
+}
+
+#h h1 {
+        font-size: 42px;
 }
 
 #h .logo h2{
